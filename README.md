@@ -1,2 +1,0 @@
-# AndroidBackend
-Backend Application
